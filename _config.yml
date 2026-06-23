@@ -20,9 +20,7 @@
 
 title: Struan Stevenson
 email: strusteve@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Struan Stevenson - PhD student in Astrophysics at the University of Edinburgh.
-  Royal Observatory Edinburgh, Blackford Hill, Edinburgh EH9 3HJ
+description: Institute for Astronomy, Royal Observatory Edinburgh, Blackford Hill, Edinburgh EH9 3HJ
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  strusteve
