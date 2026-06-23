@@ -4,3 +4,13 @@
 
 layout: home
 ---
+
+<img src="../images/alligan.jpg">
+
+<img align="left" src="../images/headshot.png" width="200" height="200">
+
+# Struan Stevenson #
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+
