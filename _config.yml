@@ -28,7 +28,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: solarized
+  skin: classic
 
   # Specific pages for site navigation.
   #   If you wish to link only specific pages in the site-navigation, use this and list
@@ -47,3 +47,6 @@ minima:
     - title: Orcid profile
       icon: orcid
       url: "https://orcid.org/my-orcid?orcid=0000-0001-5642-752X"
+
+  
+#google_analytics: G-NNNNNNNNNN  
