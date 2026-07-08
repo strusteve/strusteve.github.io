@@ -9,6 +9,6 @@ layout: home
     <h1>Struan Stevenson</h1>
     <h2>PhD Student | Astrophysics</h2>
     <p style="margin-top: 25px;">
-        Welcome to my homepage. Explore my research, publications, projects, and interests — both professional and personal.
+        Welcome to my homepage. Explore my research, publications, projects, and interests - both professional and personal.
     </p>
 </div>
