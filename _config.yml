@@ -7,13 +7,17 @@ author:
   name: Struan Stevenson
   email: struan.stevenson@ed.ac.uk
 
-description: Institute for Astronomy, Royal Observatory Edinburgh, Blackford Hill, Edinburgh EH9 3HJ
+description: Struan Stevenson — PhD Student in Astrophysics at the University of Edinburgh. Research, publications, and projects.
+url: "https://strusteve.github.io"
+baseurl: ""
 
 theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
 
 sass:
   quiet_deps: true
