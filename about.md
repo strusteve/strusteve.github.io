@@ -7,11 +7,14 @@ permalink: /about/
 
 I am a PhD student studying astrophysics at the University of Edinburgh, with an expected completion date of August 2028. I am originally from Edinburgh, having grown up in the surrounding countryside.
 
-My research focuses on the origins of massive galaxies, particulary from an observational perspective via JWST and ALMA, and is supervised by Dr. Adam Carnall.
+My research explores the formation and evolution of massive galaxies through deep observations with the James Webb Space Telescope (*JWST*) and the Atacama Large Millimeter/submillimeter Array (ALMA), under the supervision of Dr. Adam Carnall.
+
+<img src="../images/uds.png">
 
 <br>
 
 ---
+
 <br>
 
 Publications: [NADA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22Stevenson%2C%20Struan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
